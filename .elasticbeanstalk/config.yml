@@ -1,0 +1,10 @@
+branch-defaults:
+  default:
+    environment: null
+global:
+  application_name: insider
+  default_ec2_keyname: null
+  default_platform: Ruby 2.0 (Puma)
+  default_region: us-west-1
+  profile: eb-cli
+  sc: null
