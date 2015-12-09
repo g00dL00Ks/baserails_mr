@@ -1,7 +1,7 @@
 app_key: "c3xg30w1r8xlcn1"
-app_secret: "i6h47o78lriam20"
+app_secret: <%= ENV[i6h47o78lriam20"] %>
 access_token: "5ionmcfelxtmu4sh"
-access_token_secret: "2ek8vgq2b1vybjl"
+access_token_secret: <%= ENV["2ek8vgq2b1vybjl"] %>
 user_id: "463628287"
 access_type: "app_folder"
 
